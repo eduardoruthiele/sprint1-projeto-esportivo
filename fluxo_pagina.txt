@@ -1,0 +1,4 @@
+Minha página faz parte da etapa inicial do projeto esportivo, funcionando como ponto de entrada do usuário. 
+A partir da página inicial (index.html), o visitante pode acessar a página de login (login.html), onde faz o acesso à sua conta. 
+Após o login, ele poderá visualizar outras páginas futuras do sistema, como perfil, histórico de atividades e desempenho esportivo. 
+Dessa forma, a minha página se encaixa no início do fluxo de navegação da aplicação.
